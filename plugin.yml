@@ -1,0 +1,11 @@
+name: SuperVIP
+version: 1.0.0
+main: RTG\SuperVIP\Loader
+api: 2.1.0
+author: IG
+commands:
+  vip:
+    description: "Test"
+permissions:
+  serverfull.bypass:
+    default: op
